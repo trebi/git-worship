@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>Rišov denník</title>
+    <description>Čo som robil včera, 11.4.2017</description>
+    <item>
+        <author>Rišo</author>
+        <pubDate>8:10</pubDate>
+        <title>Cestoval som metrom</title>
+        <site>Praha</site>
+    </item>
+    <item>
+        <author>Rišo</author>
+        <pubDate>12:34</pubDate>
+        <title>Obedovali sme Pizzu</title>
+        <site>Praha</site>
+    </item>
+    <item>
+        <author>Rišo</author>
+        <pubDate>18:19</pubDate>
+        <title>Cestoval com vlakom</title>
+        <site>Niekde medzi Prahou a Brnom</site>
+    </item>
+</channel>
+
+</rss>
