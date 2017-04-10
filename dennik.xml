@@ -2,8 +2,8 @@
 <rss version="2.0">
 
 <channel>
-    <title>Rišov denník</title>
-    <description>Čo som robil včera, 11.4.2017</description>
+    <title>Rišov, Honzov a Jirkov denník</title>
+    <description>Čo sme robili včera, 11.4.2017</description>
     <item>
         <author>Rišo</author>
         <pubDate>8:10</pubDate>
@@ -22,6 +22,42 @@
         <title>Cestoval com vlakom</title>
         <site>Niekde medzi Prahou a Brnom</site>
     </item>
+    <item>
+        <author>Jirka</author>
+        <pubDate>8:21</pubDate>
+        <title>Kafe</title>
+        <site>Doma</site>
+    </item>
+    <item>
+        <author>Jirka</author>
+        <pubDate>12:45</pubDate>
+        <title>Kafe</title>
+        <site>Kancel</site>
+    </item>
+    <item>
+        <author>Jirka</author>
+        <pubDate>18:01</pubDate>
+        <title>Kafe</title>
+        <site>Kavárna</site>
+    <title>Honzov denník</title>
+    <description>Čo som robil včera, 11.4.2017</description>
+    <item>
+        <author>Honza</author>
+        <pubDate>8:17</pubDate>
+        <title>Jedol typické Írske raňajky</title>
+        <site>Dublin</site>
+    </item>
+    <item>
+        <author>Honza</author>
+        <pubDate>12:27</pubDate>
+        <title>Čakal na lietadlo</title>
+        <site>Letisko Dublin</site>
+    </item>
+    <item>
+        <author>Honza</author>
+        <pubDate>18:13</pubDate>
+        <title>Pricestoval som z Bratislavy</title>
+        <site>Hlavní nádraží Brno</site>
+    </item>
 </channel>
-
 </rss>
